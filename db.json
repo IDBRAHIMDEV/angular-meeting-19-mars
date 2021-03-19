@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Learn Angular",
+      "body": "Learn how to create angular app ",
+      "id": 1
+    },
+    {
+      "title": "Learn VueJS ",
+      "body": "vUE JS 3 IN BRIGHT cODING",
+      "id": 2
+    },
+    {
+      "title": "Learn React ",
+      "body": "react js with redux state management",
+      "id": 3
+    }
+  ]
+}
